@@ -1,0 +1,21 @@
+
+# Created by https://www.gitignore.io/api/java
+
+### Config ###
+config.json
+tags.sqlite
+notes.txt
+nameref.txt
+core
+
+# Extra Storage
+
+# Node Folders/Files
+node_modules/
+TrialKit.js
+
+# Package 
+package-lock.json
+package.json
+
+# End of https://www.gitignore.io/api/java

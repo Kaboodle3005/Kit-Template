@@ -1,0 +1,8 @@
+{
+    "command-name":{
+        "aliases":["alias"]
+    },
+    "second-command-name":{
+        "aliases":["alias"]
+    }
+}

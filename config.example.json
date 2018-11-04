@@ -1,0 +1,5 @@
+{
+    "token": "PASTE BOT TOKEN HERE",
+    "prefix": "?", //Delete this comment before running the bot: This prefix is what the bot will load into the database first, it will be the default prefix
+    "owner": "PASTE YOUR ID HERE"
+}
