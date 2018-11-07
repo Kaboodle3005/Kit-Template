@@ -31,7 +31,7 @@ exports.run = (client, message, args) => {
 
 exports.conf = {
     DM: true, //Changing this to false disables the command
-    OwnerOnly: false //Changing this to true 
+    OwnerOnly: false //Changing this to true makes the command only work for the owner
 }
  ```
 
