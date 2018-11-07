@@ -1,5 +1,5 @@
  ## Kit Bot
-Modular bot template based off of Kit (https://github.com/Kaboodle3005/Kit-Template)<br/>
+Modular bot template based off of Kit (https://github.com/Kaboodle3005/Kit)<br/>
 Mostly it's just a dumbed down broken down version of Kit, for anyone wanting to make their own bot
 
  ## Running
