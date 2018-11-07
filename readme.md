@@ -6,7 +6,7 @@ Some node modules are required, primarily sqlite and Discord.js, these should be
 To set up system variables, replace the objects in `config.example.json`, rename it `config.json`, and then remove the comments and run `node app.js`<br/>
 If there are any major errors when this is run, feel free to report them in the issues section<br/>
 <br/>
-##Config
+ ## Config
 This is what your config file should look like when finished
 ```json
 {
